@@ -1,6 +1,7 @@
 
 ![Logo](https://auditeste.com.br/wp-content/uploads/2020/02/linguagens_2020.jpg)
 
+
 ## 🚀 Sobre mim
 Meu nome é Henrique, tenho 17 anos. Estou cursando Técnico em Desenvolvimento de Sistemas - Módulo 2/3. E tambem fazendo Ensino Médio, meu ultimo ano. Além disso, estudando Ingles sozinho em casa.
 
@@ -31,3 +32,5 @@ Eu aprendi a desenvolver um Apps básico, chamado DADO. Nele, na minha opiniao d
 - Disciplinado
 - Esforçado
 - Prestativo 
+
+
