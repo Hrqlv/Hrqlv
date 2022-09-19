@@ -47,7 +47,7 @@
 <a href="https://www.linkedin.com/in/henrique-lopes-velozo-272206234/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="henriquelopesvelozo@gmail.com">
+<a href="mailto:henriquelopesvelozo@gmail.com">
 <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
