@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="./src/resources/images/header.gif" />
-</p>
-<hr>
+
 
 <p align="center">
     <a href="https://www.linkedin.com/in/henrique-lopes-velozo-272206234/">
