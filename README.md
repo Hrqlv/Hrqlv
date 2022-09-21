@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-👋 Hello! I'm Henrique, a brazilian programmer.
+👋 Hello! I'm Henrique, a   Brazilian Programmer.
 </p>
 
 ## **🐉 About me:**
