@@ -27,7 +27,7 @@
 ![image](https://user-images.githubusercontent.com/100387709/191018696-6097de77-5232-451c-b646-3a23923c294e.png)
 ![image](https://user-images.githubusercontent.com/100387709/191018751-9c9ec276-a472-4241-87c3-1a698f7501db.png)
 ![image](https://user-images.githubusercontent.com/100387709/191018824-d148c90a-3f36-478f-b176-665e7dd76674.png)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git]([https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## **🚀 My recent works:**
