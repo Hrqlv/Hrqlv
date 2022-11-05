@@ -1,14 +1,8 @@
 
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/henrique-lopes-velozo-272206234/">
-    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-</p>
-
-<p align="center">
+<h2 align="center">
 👋 Hello! I'm Henrique, a   Brazilian Programmer.
-</p>
+</h2>
 
 ## **🐉 About me:**
 * Henrique, 18 years
