@@ -1,8 +1,8 @@
 
 
-<h2 align="center">
+<h1 align="center">
 👋 Hello! I'm Henrique, a   Brazilian Programmer.
-</h2>
+</h1>
 
 ## **🐉 About me:**
 * Henrique, 18 years
