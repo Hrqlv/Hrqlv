@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-👋 Hello! I'm Henrique, a   Brazilian Programmer.
+👋 Hello! How are you?  I'm Henrique, a   Brazilian Programmer.
 </h1>
 
 ## **🐉 About me:**
