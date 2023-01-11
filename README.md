@@ -6,7 +6,7 @@
 
 ## **🐉 About me:**
 * Henrique, 18 years
-* Frontend Developer | Software Testing Analyst
+* Software Testing Analyst
 
 ## **💬 My skills:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
