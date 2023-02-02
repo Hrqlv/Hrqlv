@@ -18,6 +18,9 @@
 ![image](https://user-images.githubusercontent.com/100387709/191018696-6097de77-5232-451c-b646-3a23923c294e.png)
 ![image](https://user-images.githubusercontent.com/100387709/191018751-9c9ec276-a472-4241-87c3-1a698f7501db.png)
 ![image](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<a href="https://www.figma.com/" rel="nofollow">
+<img alt="playwright" height="40" width="40">
+</a>
 
 ## **🚀 My Testing tools :**
 <div class="">
