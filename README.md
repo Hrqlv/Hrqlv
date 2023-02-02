@@ -27,6 +27,9 @@
 <a href="https://www.figma.com/files/recent?fuid=1019770625343230844">
 <img alt="figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
 </a>
+<a href="https://ionicframework.com/">
+<img alt="ionic" height="40" width="40" src="https://www.svgrepo.com/show/353912/ionic-icon.svg">
+</a>
 
 
 ## **🚀 My Testing tools :**
