@@ -18,12 +18,13 @@
 ![image](https://user-images.githubusercontent.com/100387709/191018696-6097de77-5232-451c-b646-3a23923c294e.png)
 ![image](https://user-images.githubusercontent.com/100387709/191018751-9c9ec276-a472-4241-87c3-1a698f7501db.png)
 ![image](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![image](https://ionicframework.com/)
-![image](https://www.figma.com/files/recent?fuid=1019770625343230844)
+![image](https://ionicframework.com/.png)
+![image](https://www.figma.com/files/recent?fuid=1019770625343230844.png)
 
 ## **🚀 My Testing tools :**
-![image](https://playwright.dev/docs/intro)
-![image](https://www.cypress.io/)
+![image](https://playwright.dev/docs/intro.png)
+![image](https://www.cypress.io/.png)
+![image](https://jestjs.io/pt-BR/.png)
 
 
 ## **🌠You can find me on:**
