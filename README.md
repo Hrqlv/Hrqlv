@@ -30,7 +30,9 @@
 <a href="https://ionicframework.com/">
 <img alt="ionic" height="40" width="40" src="https://www.svgrepo.com/show/353912/ionic-icon.svg">
 </a>
-
+<a href="https://firebase.google.com/?hl=pt-br">
+<img alt="firebase" height="40" width="40" src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle-thumbnail.png">
+</a>
 
 ## **🚀 My Testing tools :**
 <div class="">
