@@ -22,7 +22,7 @@
 ![image](https://www.figma.com/files/recent?fuid=1019770625343230844.png)
 
 ## **🚀 My Testing tools :**
-![image](href="https://playwright.dev/")
+![image]href="https://playwright.dev/"
 ![image](https://www.cypress.io/.png)
 ![image](https://jestjs.io/pt-BR/.png)
 
