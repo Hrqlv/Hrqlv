@@ -24,6 +24,9 @@
 <a href="https://www.cssportal.com/css3-button-generator">
 <img alt="css" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png">
 </a>
+<a href="https://www.figma.com/files/recent?fuid=1019770625343230844">
+<img alt="figma" height="40" width="40" src="data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"">
+</a>
 
 
 ## **🚀 My Testing tools :**
