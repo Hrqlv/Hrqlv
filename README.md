@@ -16,7 +16,7 @@
 <img alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </a>
 <a href="https://www.inf.pucrs.br/~pinho/LaproI/IntroC/IntroC.htm" rel="nofollow">
-<img alt="linguagem c" height="40" width="40" src="https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg">
+<img alt="linguagem c" height="40" width="40" src="https://img1.gratispng.com/20180405/efq/kisspng-the-c-programming-language-computer-programming-co-programmer-5ac6bd82da8a81.2143761315229740828952.jpg">
 </a>
 <a href="https://www.mysql.com/" rel="nofollow">
 <img alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
