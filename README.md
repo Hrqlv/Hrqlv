@@ -47,7 +47,7 @@
 <img alt="postman" height="40" width="40" src="https://camo.githubusercontent.com/9f1ca3b98fb55939fd8e45b6299cc9dfee7163ec9f663fd6f43fc5cfda3c118f/68747470733a2f2f7777772e7376677265706f2e636f6d2f646f776e6c6f61642f3335343230322f706f73746d616e2d69636f6e2e737667">
 </a>
  <a href="https://cucumber.io/" rel="nofollow">
-<img alt="cucumber" height="40" width="40" src="https://w7.pngwing.com/pngs/108/516/png-transparent-cucumber-behavior-driven-development-software-testing-test-automation-cartoon-cucumber-leaf-logo-rss.png">
+<img alt="cucumber" height="40" width="40" src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png">
 </a>
 </div>
 
