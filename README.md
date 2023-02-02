@@ -59,6 +59,9 @@
  <a href="https://cucumber.io/" rel="nofollow">
 <img alt="cucumber" height="40" width="40" src="https://img.stackshare.io/service/2544/jasVAxyJ.png">
 </a>
+ <a href="https://fakerjs.dev/guide/" rel="nofollow">
+<img alt="faker" height="40" width="40" src="https://fakerjs.dev/logo.svg">
+</a>
 
 
 ## **🌠You can find me on:**
