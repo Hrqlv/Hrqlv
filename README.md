@@ -10,7 +10,7 @@
 
 ## **💬 My Languages and Tools:**
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
-<img alt="javascript" height="40" width="40" src="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </a>
 
 
@@ -41,8 +41,6 @@
 </a>
 </div>
 <br>
-<br>
-
 <div class="">
 <p align="center">
     <img height="180em" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=Hrqlv&theme=moltack"/>
