@@ -9,18 +9,10 @@
 * Software Testing Analyst
 
 ## **💬 My Languages and Tools:**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![image](https://user-images.githubusercontent.com/100387709/191018548-f0f17e62-3f69-4e11-9e16-02ca25be07e9.png)
-![image](https://user-images.githubusercontent.com/100387709/191018696-6097de77-5232-451c-b646-3a23923c294e.png)
-![image](https://user-images.githubusercontent.com/100387709/191018751-9c9ec276-a472-4241-87c3-1a698f7501db.png)
-![image](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<a href="https://www.figma.com/" rel="nofollow">
-<img alt="playwright" height="40" width="40">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
+<img alt="javascript" height="40" width="40" src="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 </a>
+
 
 ## **🚀 My Testing tools :**
 <div class="">
