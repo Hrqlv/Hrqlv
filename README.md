@@ -15,6 +15,9 @@
 <a href="https://www.typescriptlang.org" rel="nofollow">
 <img alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </a>
+<a href="https://www.mysql.com/" rel="nofollow">
+<img alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+</a>
 
 
 ## **🚀 My Testing tools :**
