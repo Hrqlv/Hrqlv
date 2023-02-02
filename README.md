@@ -1,12 +1,13 @@
 
 
 <h2 align="center">
-👋 Hello! How are you?  I'm Henrique, a   Brazilian Programmer.
+👋 Hello! How are you?  I'm Henrique.
 </h2>
 
 ## **🐉 About me:**
 * Henrique, 18 years
-* Software Testing Analyst
+* Software Testing Analyst / Frontend Development
+* With focus in Test of Software - QA
 
 ## **💬 My Languages and Tools:**
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
