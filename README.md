@@ -18,10 +18,8 @@
 ![image](https://user-images.githubusercontent.com/100387709/191018696-6097de77-5232-451c-b646-3a23923c294e.png)
 ![image](https://user-images.githubusercontent.com/100387709/191018751-9c9ec276-a472-4241-87c3-1a698f7501db.png)
 ![image](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<a href="https://ionicframework.com/" rel="nofollow">
-<img alt="ionic" height="40" width="40" src="https://ionicframework.com/docs">
-</a>
-![image](https://www.figma.com/files/recent?fuid=1019770625343230844.png)
+![Ionic](https://ionicframework.com/docs/)
+![Figma](https://www.figma.com/files/recent?fuid=1019770625343230844)
 
 ## **🚀 My Testing tools :**
 <a href="https://playwright.dev/" rel="nofollow">
