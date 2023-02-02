@@ -32,7 +32,7 @@
 <img alt="ionic" height="40" width="40" src="https://www.svgrepo.com/show/353912/ionic-icon.svg">
 </a>
 <a href="https://angular.io/guide/component-overview">
-<img alt="angular" height="40" width="40" src="https://img2.gratispng.com/20180421/pjw/kisspng-web-development-angularjs-javascript-node-js-angular-5adb17c2813325.0078490215243079065292.jpg">
+<img alt="angular" height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png">
 </a>
 <a href="https://firebase.google.com/?hl=pt-br">
 <img alt="firebase" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/firebase-3628772-3030134.png">
