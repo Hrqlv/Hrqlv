@@ -47,6 +47,6 @@
 </a>
 <br>
 <p align="center">
-    <img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=Hrqlv&theme=moltack"/>
+    <img height="180em" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=Hrqlv&theme=moltack"/>
    <img height='195' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&layout=compact&theme=moltack"/>
 </p>
