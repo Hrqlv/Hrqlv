@@ -22,7 +22,7 @@
 ![image](https://www.figma.com/files/recent?fuid=1019770625343230844.png)
 
 ## **🚀 My Testing tools :**
-![image]href="https://playwright.dev/"
+<img height="40" width="40" src="https://camo.githubusercontent.com/aef63a1fd50f4875d4c90f641b1f44cba669e6240bbc1fb45e8a8bc9953e51fe/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f502f706c61797772696768742d6c6f676f2d323246413842394536332d7365656b6c6f676f2e636f6d2e706e67">
 ![image](https://www.cypress.io/.png)
 ![image](https://jestjs.io/pt-BR/.png)
 
