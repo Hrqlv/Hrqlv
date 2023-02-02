@@ -31,7 +31,7 @@
 <img alt="ionic" height="40" width="40" src="https://www.svgrepo.com/show/353912/ionic-icon.svg">
 </a>
 <a href="https://firebase.google.com/?hl=pt-br">
-<img alt="firebase" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png">
+<img alt="firebase" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/firebase-3628772-3030134.png">
 </a>
 
 ## **🚀 My Testing tools :**
