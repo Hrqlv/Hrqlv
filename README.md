@@ -35,7 +35,6 @@
 </a>
 
 ## **🚀 My Testing tools :**
-<div class="">
 <a href="https://playwright.dev/" rel="nofollow">
 <img alt="playwright" height="40" width="40" src="https://camo.githubusercontent.com/aef63a1fd50f4875d4c90f641b1f44cba669e6240bbc1fb45e8a8bc9953e51fe/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f502f706c61797772696768742d6c6f676f2d323246413842394536332d7365656b6c6f676f2e636f6d2e706e67">
 </a>
@@ -51,11 +50,9 @@
  <a href="https://cucumber.io/" rel="nofollow">
 <img alt="cucumber" height="40" width="40" src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png">
 </a>
-</div>
 
 
 ## **🌠You can find me on:**
-<div class="">
 <a href="https://www.linkedin.com/in/henrique-lopes-velozo-272206234/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -64,9 +61,7 @@
 </a>
 </div>
 <br>
-<div class="">
 <p align="center">
     <img height="180em" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=Hrqlv&theme=moltack"/>
    <img  height="180em" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&layout=compact&theme=moltack"/>
 </p>
-</div>
