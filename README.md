@@ -18,6 +18,9 @@
 <a href="https://www.mysql.com/" rel="nofollow">
 <img alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </a>
+<a href="https://www.w3.org/html/" rel="nofollow">
+<img alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+</a>
 
 
 ## **🚀 My Testing tools :**
