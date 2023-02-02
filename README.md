@@ -51,7 +51,7 @@
 <img alt="jest" height="40" width="40" src="https://camo.githubusercontent.com/2c5ca93c612776d3f9320578365a5924c36ab08aa618062cb67f08336ffb524a/68747470733a2f2f69636f6e6170652e636f6d2f77702d636f6e74656e742f706e675f6c6f676f5f766563746f722f6a6573742d6c6f676f2e706e67">
 </a>
 <a href="https://www.cypress.io/" rel="nofollow">
-<img alt="cypress" height="40" width="40" src="https://camo.githubusercontent.com/92ea4ceaecae93a7aa14fba9fc807f861853245e512a47bc16615277ac4e3a79/68747470733a2f2f61737365742e6272616e6466657463682e696f2f696449715f6b463072622f696476337a776d5369592e6a706567">
+<img alt="cypress" height="40" width="40" src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2022/04/cypress.png?fit=364%2C364&ssl=1">
 </a>
 <a href="https://www.postman.com/" rel="nofollow">
 <img alt="postman" height="40" width="40" src="https://camo.githubusercontent.com/9f1ca3b98fb55939fd8e45b6299cc9dfee7163ec9f663fd6f43fc5cfda3c118f/68747470733a2f2f7777772e7376677265706f2e636f6d2f646f776e6c6f61642f3335343230322f706f73746d616e2d69636f6e2e737667">
