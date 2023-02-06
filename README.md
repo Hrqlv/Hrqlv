@@ -66,7 +66,7 @@
 
 ## **🌠You can find me on:**
 <a href="https://www.linkedin.com/in/henrique-lopes-velozo-272206234/">
-<img alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/>
+<img alt="linkedin" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/>
 </a>
 <a href="mailto:henriquelopesvelozo@gmail.com">
 <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
