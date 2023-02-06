@@ -69,7 +69,7 @@
 <img alt="linkedin" height="35" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/>
 </a>
 <a href="mailto:henriquelopesvelozo@gmail.com">
-<img alt="gmail" height="40" width="40" src="https://cutewallpaper.org/24/logo-email-png/download-mailang-icons-computer-logo-email-gmail-hq-png-image-freepngimg.png"/>
+<img alt="gmail" height="35" width="40" src="https://cutewallpaper.org/24/logo-email-png/download-mailang-icons-computer-logo-email-gmail-hq-png-image-freepngimg.png"/>
 </a>
 </div>
 <br>
