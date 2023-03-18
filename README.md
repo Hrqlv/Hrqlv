@@ -6,7 +6,7 @@
 
 ## **🐉 About me:**
 * Henrique, 18 years
-* Software Quality - QA
+* Software Quality - QA | Analyst Test
 
 ## **💬 My Languages and Tools:**
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
