@@ -5,11 +5,11 @@
 </h2>
 
 
-# **About me:
+# *About me:
 * Henrique, 18 years
 * Software Quality - QA | Analyst Test
 
-# **My Languages and Tools:
+# *My Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
 <img alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </a>
