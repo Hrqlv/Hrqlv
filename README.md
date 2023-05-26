@@ -4,7 +4,8 @@
 👋 Hello! How are you?
 </h2>
 
-## **🐉 About me:**
+## **![image](https://github.com/Hrqlv/Hrqlv/assets/100387709/73c58532-4550-4a52-91ad-7c04ca84ce98)
+About me:**
 * Henrique, 18 years
 * Software Quality - QA | Analyst Test
 
