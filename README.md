@@ -16,9 +16,6 @@
 <a href="https://www.typescriptlang.org" rel="nofollow">
 <img alt="typescript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </a>
-<a href="https://www.inf.pucrs.br/~pinho/LaproI/IntroC/IntroC.htm" rel="nofollow">
-<img alt="linguagem c" height="30" width="30" src="https://i.pinimg.com/originals/13/a8/94/13a89487b6a28c9fd6fee57cf6bc5e2c.png">
-</a>
 <a href="https://www.mysql.com/" rel="nofollow">
 <img alt="mysql" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </a>
@@ -34,10 +31,6 @@
 <a href="https://www.figma.com/files/recent?fuid=1019770625343230844">
 <img alt="figma" height="30" width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
 </a>
-<a href="https://ionicframework.com/">
-<img alt="ionic" height="30" width="30" src="https://www.svgrepo.com/show/353912/ionic-icon.svg">
-</a>
-
 
 # My Testing tools:
 <a href="https://playwright.dev/" rel="nofollow">
