@@ -5,7 +5,7 @@
 </h2>
 
 
-# About me:
+#  Who am I ?:
 * Henrique, 18 years
 * Software Quality - QA | Analyst Test
 
