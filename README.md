@@ -59,6 +59,6 @@
 <br>
 
 <a href="https://github.com/Hrqlv">
-  <img height=200 align="center" src="	https://github-readme-stats.vercel.app/api?username=Hrqlv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height=200 align="center" src="	https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&layout=compact&langs_count=16&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hrqlv&theme=blue-green"/>
+  <img height=200 align="center" src="	https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&theme=blue-green" />
 </a>
