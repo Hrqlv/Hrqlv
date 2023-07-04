@@ -10,7 +10,7 @@
 * Software Quality - QA | Analyst Test
 
 #  🚀 My Languages and Tools:
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img alt="javascript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </a>
 <a href="https://www.typescriptlang.org" rel="nofollow">
