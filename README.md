@@ -58,6 +58,6 @@
 </a>
 <br>
 <p align="center">
-    <img height="180em" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username={Henrique Lopes Velozo}&theme=blue-green" />
-    <img height="180em" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username={Henrique Lopes Velozo}&theme=blue-green" />
+    <img height="180em" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=Hrqlvshow_icons=true&theme=blue-green" />
+    <img height="180em" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&theme=blue-green" />
 </p>
