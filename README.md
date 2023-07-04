@@ -56,10 +56,8 @@
 <a href="https://www.linkedin.com/in/henrique-lopes-velozo-272206234/" rel="nolfollow">
 <img alt="linkedin" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/>
 </a>
-
-
-
+<br>
 <p align="center">
-    <img height="180em" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api/&theme=blue-green" />
-    <img height="180em" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/&theme=blue-green" />
+    <img height="180em" style="max-width: 100%" src="	https://github-readme-stats.vercel.app/api?username={Hrqlv}&theme=blue-green" />
+    <img height="180em" style="max-width: 100%" src="	https://github-readme-stats.vercel.app/api/top-langs/?username={Hrqlv}&theme=blue-green" />
 </p>
