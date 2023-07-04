@@ -13,10 +13,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
 <img alt="javascript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </a>
-<a href="https://www.typescriptlang.org">
+<a href="https://www.typescriptlang.org" rel="nofollow">
 <img alt="typescript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </a>
-<a href="https://www.mysql.com/">
+<a href="https://www.mysql.com/" no="nofollow">
 <img alt="mysql" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </a>
 <a href="https://www.w3.org/html/" rel="nofollow">
