@@ -57,14 +57,10 @@
 <a href="https://www.linkedin.com/in/henrique-lopes-velozo-272206234/">
 <img alt="linkedin" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/>
 </a>
-<a href="mailto:henriquelopesvelozo@gmail.com">
-<img alt="gmail" height="30" width="30" src="https://cutewallpaper.org/24/logo-email-png/download-mailang-icons-computer-logo-email-gmail-hq-png-image-
- freepngimg.png"/>
-</a>
 
-<div class="">
+
+
 <p align="center">
     <img height="180em" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=Hrqlv&theme=moltack"/>
    <img  height="180em" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&layout=compact&theme=moltack"/>
 </p>
-</div>
