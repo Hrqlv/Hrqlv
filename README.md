@@ -52,9 +52,8 @@
 <img alt="faker" height="30" width="30" src="https://fakerjs.dev/logo.svg">
 </a>
 
-
- 🤜🤛 You can find me on:
-<a href="https://www.linkedin.com/in/henrique-lopes-velozo-272206234/">
+ # 🤜🤛 You can find me on:
+<a href="https://www.linkedin.com/in/henrique-lopes-velozo-272206234/" rel="nolfollow">
 <img alt="linkedin" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/>
 </a>
 
