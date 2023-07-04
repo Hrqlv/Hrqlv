@@ -57,7 +57,8 @@
 <img alt="linkedin" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/>
 </a>
 <br>
+
 <a href="https://github.com/Hrqlv">
-  <img height=200 align="center" src="	https://github-readme-stats.vercel.app/api?username=Hrqlv&show_icons=true&theme=blue-green" />
-  <img height=200 align="center" src="	https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&show_icons=true&&theme=blue-green" />
+  <img height=200 align="center" src="	https://github-readme-stats.vercel.app/api?username=Hrqlv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height=200 align="center" src="	https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&layout=compact&langs_count=16&theme=dark" />
 </a>
