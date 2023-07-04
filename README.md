@@ -57,10 +57,10 @@
 <img alt="linkedin" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/>
 </a>
 <br>
-
+<br>
 <div class="">
 <a>
   <img height=210 align="center" src="https://github-readme-stats.vercel.app/api?username=Hrqlv&theme=blue-green"/>
- <img height=200 width="100" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&them=blue-green"/>
+ <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&them=blue-green"/>
 </a>
 </div>
