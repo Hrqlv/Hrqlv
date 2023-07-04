@@ -59,7 +59,7 @@
 
 
 
-<p align="center">
-    <img height="180em" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green"/>
-   <img  height="180em" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"/>
+<p align="center" rel="nofollow">
+    <img height="180em" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username={Rique}&theme=blue-green"/>
+   <img  height="180em" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username={Rique}&theme=blue-green"/>
 </p>
