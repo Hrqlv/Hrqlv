@@ -1,8 +1,8 @@
 
 
-<h2 align="center">
+<h1 align="center">
 👋 Hello! How are you? 
-</h2>
+</h1>
 
 
 #  👨 Who am I ?:
@@ -60,6 +60,6 @@
 
 
 <p align="center">
-    <img height="180em" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=Hrqlv&theme=moltack"/>
-   <img  height="180em" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&layout=compact&theme=moltack"/>
+    <img height="180em" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green"/>
+   <img  height="180em" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"/>
 </p>
