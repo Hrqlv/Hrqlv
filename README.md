@@ -61,6 +61,6 @@
 <div class="">
 <a>
   <img height=210 align="center" src="https://github-readme-stats.vercel.app/api?username=Hrqlv&theme=blue-green"/>
- <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&them=blue-green"/>
+ <img height=100  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&theme=blue-green"/>
 </a>
 </div>
