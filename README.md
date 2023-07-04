@@ -60,7 +60,7 @@
 
 <div class="">
 <a>
-  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api?username=Hrqlv&theme=green"/>
- <img height=230 width="100" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&them=green"/>
+  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api?username=Hrqlv&theme=blue-white"/>
+ <img height=230 width="100" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&them=blue-white"/>
 </a>
 </div>
