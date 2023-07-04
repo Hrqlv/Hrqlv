@@ -5,11 +5,11 @@
 </h2>
 
 
-#  Who am I ?:
+#  👨 Who am I ?:
 * Henrique, 18 years
 * Software Quality - QA | Analyst Test
 
-# My Languages and Tools:
+#  🚀 My Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
 <img alt="javascript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </a>
@@ -32,7 +32,7 @@
 <img alt="figma" height="30" width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
 </a>
 
-# My Testing tools:
+# 🚀 My Testing tools:
 <a href="https://playwright.dev/" rel="nofollow">
 <img alt="playwright" height="30" width="30" src="https://camo.githubusercontent.com/aef63a1fd50f4875d4c90f641b1f44cba669e6240bbc1fb45e8a8bc9953e51fe/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f502f706c61797772696768742d6c6f676f2d323246413842394536332d7365656b6c6f676f2e636f6d2e706e67">
 </a>
