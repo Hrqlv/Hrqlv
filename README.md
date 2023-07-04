@@ -10,13 +10,13 @@
 * Software Quality - QA | Analyst Test
 
 #  🚀 My Languages and Tools:
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
 <img alt="javascript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </a>
-<a href="https://www.typescriptlang.org" rel="nofollow">
+<a href="https://www.typescriptlang.org">
 <img alt="typescript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </a>
-<a href="https://www.mysql.com/" rel="nofollow">
+<a href="https://www.mysql.com/">
 <img alt="mysql" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </a>
 <a href="https://www.w3.org/html/" rel="nofollow">
