@@ -6,7 +6,7 @@
 
 
 #  👨 Who am I ?:
-* Henrique, 18 years
+* Henrique, 18y
 * Software Quality - QA | Test Analyst
 
 #  🚀 My Languages and Tools:
