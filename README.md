@@ -2,11 +2,10 @@
 
 <h1 align="center">
 👋 Hello! How are you? 
+   <h2>
+      Welcome!!
+   </h2>
 </h1>
-<h2>
-   Welcome!!
-</h2>
-
 
 #  👨 Who am I ?:
 * Henrique, 18y
