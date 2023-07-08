@@ -2,8 +2,10 @@
 
 <h1 align="center">
 👋 Hello! How are you? 
-   Welcome!!
 </h1>
+<h2>
+   Welcome!!
+</h2>
 
 
 #  👨 Who am I ?:
