@@ -44,6 +44,9 @@
  <a href="https://fakerjs.dev/guide/" rel="nofollow">
 <img alt="faker" height="30" width="30" src="https://fakerjs.dev/logo.svg">
 </a>
+ <a href="https://git-scm.com/" rel="nofollow">
+<img alt="faker" height="30" width="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbastter.com%2Fmercado%2Fforum%2F874727%2Fgithub--por-que-quem-programa-deve-ter-uma-conta-nele&psig=AOvVaw1WTciXZw9k_gUHVi5rmLBy&ust=1699444710998000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC9_ITrsYIDFQAAAAAdAAAAABAE">
+</a>
 
  # 🤜🤛 You can find me on:
 <a href="https://www.linkedin.com/in/henrique-lopes-velozo-272206234/" rel="nolfollow">
