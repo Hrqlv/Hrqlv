@@ -45,7 +45,7 @@
 <img alt="faker" height="30" width="30" src="https://fakerjs.dev/logo.svg">
 </a>
  <a href="https://git-scm.com/" rel="nofollow">
-<img alt="faker" height="30" width="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbastter.com%2Fmercado%2Fforum%2F874727%2Fgithub--por-que-quem-programa-deve-ter-uma-conta-nele&psig=AOvVaw1WTciXZw9k_gUHVi5rmLBy&ust=1699444710998000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC9_ITrsYIDFQAAAAAdAAAAABAE">
+<img alt="git" height="30" width="30" src="https://bastter-storage.b-cdn.net/outros/b691b724-2a8e-4f45-b632-ffaa4439c404.png">
 </a>
 
  # 🤜🤛 You can find me on:
