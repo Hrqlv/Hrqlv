@@ -47,8 +47,8 @@
  <a href="https://git-scm.com/" rel="nofollow">
 <img alt="git" height="30" width="30" src="https://bastter-storage.b-cdn.net/outros/b691b724-2a8e-4f45-b632-ffaa4439c404.png">
 </a>
- <a href="https://git-scm.com/" rel="nofollow">
-<img alt="jira" height="30" width="30" src="https://www.t4it.com.br/wp-content/uploads/2022/12/t4it_thumb_jira-800x630.webp">
+ <a href="https://www.atlassian.com/br/software/jira" rel="nofollow">
+<img alt="jira" height="30" width="30" src="https://www.clearvision-cm.com/wp-content/uploads/2019/11/jira-ppm.png">
 </a>
 
  # 🤜🤛 You can find me on:
