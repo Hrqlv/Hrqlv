@@ -48,7 +48,7 @@
 <img alt="git" height="30" width="30" src="https://bastter-storage.b-cdn.net/outros/b691b724-2a8e-4f45-b632-ffaa4439c404.png">
 </a>
  <a href="/br/software/jira" rel="nofollow">
-<img alt="jira" height="25px" width="60" src="https://logowik.com/content/uploads/images/jira3124.jpg">
+<img alt="jira" height="25px" width="30" src="https://github.com/Hrqlv/Hrqlv/assets/100387709/21627f60-c858-4e3f-8153-493a0b4422f5">
 </a>
 
  # 🤜🤛 You can find me on:
