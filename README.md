@@ -48,7 +48,7 @@
 <img alt="git" height="30" width="30" src="https://bastter-storage.b-cdn.net/outros/b691b724-2a8e-4f45-b632-ffaa4439c404.png">
 </a>
  <a href="https://www.atlassian.com/br/software/jira" rel="nofollow">
-<img alt="jira" height="30" width="30" src="https://servicos.procempa.com.br/images/atlassian-jira-logo-large.png">
+<img alt="jira" height="30" width="40" src="https://w7.pngwing.com/pngs/992/738/png-transparent-jira-hd-logo-thumbnail.png">
 </a>
 
  # 🤜🤛 You can find me on:
