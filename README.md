@@ -48,7 +48,8 @@
 <img alt="git" height="30" width="30" src="https://bastter-storage.b-cdn.net/outros/b691b724-2a8e-4f45-b632-ffaa4439c404.png">
 </a>
  <a href="https://www.atlassian.com/br/software/jira" rel="nofollow">
-<img alt="jira" height="30" width="30" src="https://www.clearvision-cm.com/wp-content/uploads/2019/11/jira-ppm.png">
+<img alt="jira" height="30" width="30" src="![image](https://github.com/Hrqlv/Hrqlv/assets/100387709/2115b11d-6802-4b72-83f0-df4075ec8597)
+">
 </a>
 
  # 🤜🤛 You can find me on:
