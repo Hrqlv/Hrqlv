@@ -48,8 +48,7 @@
 <img alt="git" height="30" width="30" src="https://bastter-storage.b-cdn.net/outros/b691b724-2a8e-4f45-b632-ffaa4439c404.png">
 </a>
  <a href="https://www.atlassian.com/br/software/jira" rel="nofollow">
-<img alt="jira" height="30" width="30" src="![image](https://github.com/Hrqlv/Hrqlv/assets/100387709/2115b11d-6802-4b72-83f0-df4075ec8597)
-">
+<img alt="jira" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPSpPNx8TpsGQZt-4Un7n1nYyJJLKa9H8ZtzeLvuNl9t7NPHBd7-iyma0I0AW5058Cv4&usqp=CAU">
 </a>
 
  # 🤜🤛 You can find me on:
