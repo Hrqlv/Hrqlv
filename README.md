@@ -32,8 +32,8 @@
 <a href="https://playwright.dev/" rel="nofollow">
 <img alt="playwright" height="30" width="30" src="https://camo.githubusercontent.com/aef63a1fd50f4875d4c90f641b1f44cba669e6240bbc1fb45e8a8bc9953e51fe/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f502f706c61797772696768742d6c6f676f2d323246413842394536332d7365656b6c6f676f2e636f6d2e706e67">
 </a>
-<a href="https://jestjs.io/pt-BR/" rel="nofollow">
-<img alt="jest" height="30" width="30" src="https://camo.githubusercontent.com/2c5ca93c612776d3f9320578365a5924c36ab08aa618062cb67f08336ffb524a/68747470733a2f2f69636f6e6170652e636f6d2f77702d636f6e74656e742f706e675f6c6f676f5f766563746f722f6a6573742d6c6f676f2e706e67">
+<a href="[https://jestjs.io/pt-BR/](https://allurereport.org/docs/gettingstarted-installation/)" rel="nofollow">
+<img alt="allure-report" height="30" width="30" src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4">
 </a>
 <a href="https://www.postman.com/" rel="nofollow">
 <img alt="postman" height="30" width="30" src="https://camo.githubusercontent.com/9f1ca3b98fb55939fd8e45b6299cc9dfee7163ec9f663fd6f43fc5cfda3c118f/68747470733a2f2f7777772e7376677265706f2e636f6d2f646f776e6c6f61642f3335343230322f706f73746d616e2d69636f6e2e737667">
