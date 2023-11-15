@@ -31,7 +31,7 @@
 <img alt="mysql" height="40" width="40" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png">
 </a>
 <a href="https://www.devmedia.com.br/guia/guia-completo-de-sql/38314"  rel="nofollow">
-<img alt="sql" height="40" width="45" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
+<img alt="sql" height="40" width="45" src="https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg">
 </a>
 
 # 🛠️ My Testing tools:
