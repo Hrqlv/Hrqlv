@@ -18,14 +18,20 @@
 <a href="https://www.w3.org/html/" rel="nofollow">
 <img alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
 </a>
-<a href="https://www.cssportal.com/css3-button-generator">
+<a href="https://www.cssportal.com/css3-button-generator"  rel="nofollow">
 <img alt="css" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png">
 </a>
-<a href="https://getbootstrap.com/">
+<a href="https://getbootstrap.com/"  rel="nofollow">
 <img alt="bootstrap" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png">
 </a>
-<a href="https://www.figma.com/files/recent?fuid=1019770625343230844">
+<a href="https://www.figma.com/files/recent?fuid=1019770625343230844"  rel="nofollow">
 <img alt="figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+</a>
+<a href="https://www.mysql.com/"  rel="nofollow">
+<img alt="mysql" height="40" width="40" src="[https://www.vectorlogo.zone/logos/figma/figma-icon.svg](https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png)">
+</a>
+<a href="https://www.devmedia.com.br/guia/guia-completo-de-sql/38314"  rel="nofollow">
+<img alt="sql" height="40" width="40" src="https://pt.wikipedia.org/wiki/Ficheiro:Sql_data_base_with_logo.png">
 </a>
 
 # 🛠️ My Testing tools:
