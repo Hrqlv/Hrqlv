@@ -28,10 +28,10 @@
 <img alt="figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
 </a>
 <a href="https://www.mysql.com/"  rel="nofollow">
-<img alt="mysql" height="40" width="40" src="[https://www.vectorlogo.zone/logos/figma/figma-icon.svg](https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png)">
+<img alt="mysql" height="40" width="40" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png">
 </a>
 <a href="https://www.devmedia.com.br/guia/guia-completo-de-sql/38314"  rel="nofollow">
-<img alt="sql" height="40" width="40" src="https://pt.wikipedia.org/wiki/Ficheiro:Sql_data_base_with_logo.png">
+<img alt="sql" height="40" width="40" src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Azure-SQL-Server-Monitoring.png/_jcr_content/renditions/cq5dam.web.1280.1280.png">
 </a>
 
 # 🛠️ My Testing tools:
