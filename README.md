@@ -42,7 +42,7 @@
 <img alt="allure-report" height="40" width="40" src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4">
 </a>
 <a href="https://www.postman.com/" rel="nofollow">
-<img alt="postman" height="40" width="40" src="https://howtocheckversion.com/wp-content/uploads/2023/07/Postman_software.png">
+<img alt="postman" height="40" width="48" src="https://howtocheckversion.com/wp-content/uploads/2023/07/Postman_software.png">
 </a>
  <a href="https://cucumber.io/" rel="nofollow">
 <img alt="cucumber" height="40" width="40" src="https://img.stackshare.io/service/2544/jasVAxyJ.png">
