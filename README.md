@@ -42,7 +42,8 @@
 <img alt="allure-report" height="40" width="40" src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4">
 </a>
 <a href="https://www.postman.com/" rel="nofollow">
-<img alt="postman" height="40" width="40" src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj">
+<img alt="postman" height="40" width="40" src="![channels4_profile-removebg-preview](https://github.com/Hrqlv/Hrqlv/assets/100387709/b74e7ffe-11b7-46b6-8a6b-f5e552fea87f)
+">
 </a>
  <a href="https://cucumber.io/" rel="nofollow">
 <img alt="cucumber" height="40" width="40" src="https://img.stackshare.io/service/2544/jasVAxyJ.png">
