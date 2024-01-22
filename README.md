@@ -45,7 +45,7 @@
 <img alt="postman" height="40" width="40" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png">
 </a>
  <a href="https://webdriver.io/" rel="nofollow">
-<img alt="webdriver" height="40" width="40" src="https://images.credly.com/images/a5f357f3-1c50-43b0-a0bc-32a6a1aa898a/webdriverio.png">
+<img alt="webdriver" height="40" width="40" src="https://miro.medium.com/v2/resize:fit:334/0*BdK8C9uSVhgPf8he.png">
 </a>
  <a href="https://appium.io/docs/en/2.4/" rel="nofollow">
 <img alt="appium" height="40" width="60" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_4db5713c991f58ae5a2241277f06cd2e/appium.png">
