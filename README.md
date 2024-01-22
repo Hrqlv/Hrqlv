@@ -44,6 +44,13 @@
 <a href="https://www.postman.com/" rel="nofollow">
 <img alt="postman" height="40" width="40" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png">
 </a>
+ <a href="https://appium.io/docs/en/2.4/" rel="nofollow">
+<img alt="appium" height="40" width="40" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_4db5713c991f58ae5a2241277f06cd2e/appium.png">
+</a>
+  <a href="https://webdriver.io/" rel="nofollow">
+<img alt="webdriver" height="40" width="40" src="![image](https://github.com/Hrqlv/Hrqlv/assets/100387709/a27ac5ff-945e-419c-89ad-cfe2bc5e0c64)
+">
+</a>
  <a href="https://cucumber.io/" rel="nofollow">
 <img alt="cucumber" height="40" width="40" src="https://img.stackshare.io/service/2544/jasVAxyJ.png">
 </a>
