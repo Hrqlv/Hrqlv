@@ -45,10 +45,10 @@
 <img alt="postman" height="40" width="40" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png">
 </a>
  <a href="https://webdriver.io/" rel="nofollow">
-<img alt="webdriver" height="40" width="40" src="https://images.credly.com/images/a5f357f3-1c50-43b0-a0bc-32a6a1aa898a/webdriverio.png">
+<img alt="webdriver" height="44" width="40" src="https://images.credly.com/images/a5f357f3-1c50-43b0-a0bc-32a6a1aa898a/webdriverio.png">
 </a>
  <a href="https://appium.io/docs/en/2.4/" rel="nofollow">
-<img alt="appium" height="40" width="50" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_4db5713c991f58ae5a2241277f06cd2e/appium.png">
+<img alt="appium" height="40" width="55" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_4db5713c991f58ae5a2241277f06cd2e/appium.png">
 </a>
  <a href="https://cucumber.io/" rel="nofollow">
 <img alt="cucumber" height="40" width="40" src="https://img.stackshare.io/service/2544/jasVAxyJ.png">
