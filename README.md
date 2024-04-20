@@ -44,6 +44,9 @@
 <a href="https://www.postman.com/" rel="nofollow">
 <img alt="postman" height="40" width="40" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png">
 </a>
+<a href="https://swagger.io/" rel="nofollow">
+<img alt="swagger" height="40" width="40" src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png">
+</a> 
  <a href="https://webdriver.io/" rel="nofollow">
 <img alt="webdriver" height="40" width="40" src="https://miro.medium.com/v2/resize:fit:334/0*BdK8C9uSVhgPf8he.png">
 </a>
