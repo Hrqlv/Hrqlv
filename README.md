@@ -66,7 +66,7 @@
 <img alt="browserStack" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/browserstack.svg">
 </a>
  <a href="https://www.mongodb.com/try/download/community" rel="nofollow">
-<img alt="mongoDB" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg">
+<img alt="mongoDB" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
 </a>
 
  # 🤜🤛 You can find me on:
