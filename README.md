@@ -69,12 +69,6 @@
 <img alt="mongoDB" height="52" width="43" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
 </a>
 
- # 🤜🤛 You can find me on:
-<a href="https://www.linkedin.com/in/henrique-lopes-velozo-272206234/" rel="nolfollow">
-<img alt="linkedin" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/>
-</a>
-<br>
-<br>
 <div class="">
 <a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hrqlv&theme=vue-dark"/>
