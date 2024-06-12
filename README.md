@@ -51,7 +51,7 @@
 <img alt="webdriver" height="40" width="40" src="https://miro.medium.com/v2/resize:fit:334/0*BdK8C9uSVhgPf8he.png">
 </a>
  <a href="https://appium.io/docs/en/2.4/" rel="nofollow">
-<img alt="appium" height="40" width="50" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_4db5713c991f58ae5a2241277f06cd2e/appium.png">
+<img alt="appium" height="40" width="65" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_4db5713c991f58ae5a2241277f06cd2e/appium.png">
 </a>
  <a href="https://cucumber.io/" rel="nofollow">
 <img alt="cucumber" height="40" width="40" src="https://img.stackshare.io/service/2544/jasVAxyJ.png">
@@ -63,7 +63,8 @@
 <img alt="git" height="40" width="40" src="https://bastter-storage.b-cdn.net/outros/b691b724-2a8e-4f45-b632-ffaa4439c404.png">
 </a>
  <a href="https://www.browserstack.com/" rel="nofollow">
-<img alt="browserstack" height="40" width="40" src="[https://pbs.twimg.com/profile_images/451968255846928384/0pyDMTyp_400x400.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dbrowserstack&psig=AOvVaw156tG7NFxyHKio7Wrop6Gn&ust=1718278886830000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDf2tz-1YYDFQAAAAAdAAAAABAE)">
+<img alt="browserstack" height="40" width="40" src="![browserstack-logo-500w-1-removebg-preview](https://github.com/Hrqlv/Hrqlv/assets/100387709/8d88bfb8-2976-417f-8624-a024053e1a7b)
+">
 </a>
 
  # 🤜🤛 You can find me on:
