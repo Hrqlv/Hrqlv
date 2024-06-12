@@ -62,6 +62,9 @@
  <a href="https://git-scm.com/" rel="nofollow">
 <img alt="git" height="40" width="40" src="https://bastter-storage.b-cdn.net/outros/b691b724-2a8e-4f45-b632-ffaa4439c404.png">
 </a>
+  <a href="browserStack" rel="nofollow">
+<img alt="browserStack" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/browserstack.svg">
+</a>
  <a href="https://www.mongodb.com/try/download/community" rel="nofollow">
 <img alt="mongoDB" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg">
 </a>
