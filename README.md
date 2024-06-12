@@ -51,7 +51,7 @@
 <img alt="webdriver" height="40" width="40" src="https://miro.medium.com/v2/resize:fit:334/0*BdK8C9uSVhgPf8he.png">
 </a>
  <a href="https://appium.io/docs/en/2.4/" rel="nofollow">
-<img alt="appium" height="40" width="65" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_4db5713c991f58ae5a2241277f06cd2e/appium.png">
+<img alt="appium" height="40" width="65" src="https://cdn.worldvectorlogo.com/logos/appium.svg">
 </a>
  <a href="https://cucumber.io/" rel="nofollow">
 <img alt="cucumber" height="40" width="40" src="https://img.stackshare.io/service/2544/jasVAxyJ.png">
@@ -62,11 +62,11 @@
  <a href="https://git-scm.com/" rel="nofollow">
 <img alt="git" height="40" width="40" src="https://bastter-storage.b-cdn.net/outros/b691b724-2a8e-4f45-b632-ffaa4439c404.png">
 </a>
-  <a href="browserStack" rel="nofollow">
+  <a href="https://www.browserstack.com/" rel="nofollow">
 <img alt="browserStack" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/browserstack.svg">
 </a>
  <a href="https://www.mongodb.com/try/download/community" rel="nofollow">
-<img alt="mongoDB" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
+<img alt="mongoDB" height="55" width="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
 </a>
 
  # 🤜🤛 You can find me on:
