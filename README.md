@@ -36,10 +36,10 @@
 
 # 🛠️ My Testing tools:
 <a href="https://playwright.dev/" rel="nofollow">
-<img alt="playwright" height="40" width="40" src="https://playwright.dev/img/playwright-logo.svg"
+<img alt="playwright" height="45" width="40" src="https://playwright.dev/img/playwright-logo.svg"
 </a>
 <a href="https://allurereport.org/docs/gettingstarted-installation/" rel="nofollow">
-<img alt="allure-report" height="40" width="40" src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4">
+<img alt="allure-report" height="45" width="40" src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4">
 </a>
 <a href="https://www.postman.com/" rel="nofollow">
 <img alt="postman" height="40" width="40" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png">
@@ -66,7 +66,7 @@
 <img alt="browserStack" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/browserstack.svg">
 </a>
  <a href="https://www.mongodb.com/try/download/community" rel="nofollow">
-<img alt="mongoDB" height="55" width="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
+<img alt="mongoDB" height="52" width="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
 </a>
 
  # 🤜🤛 You can find me on:
