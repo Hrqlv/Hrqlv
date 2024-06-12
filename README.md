@@ -62,6 +62,9 @@
  <a href="https://git-scm.com/" rel="nofollow">
 <img alt="git" height="40" width="40" src="https://bastter-storage.b-cdn.net/outros/b691b724-2a8e-4f45-b632-ffaa4439c404.png">
 </a>
+ <a href="https://www.browserstack.com/" rel="nofollow">
+<img alt="browserstack" height="40" width="40" src="https://pbs.twimg.com/profile_images/451968255846928384/0pyDMTyp_400x400.png">
+</a>
 
  # 🤜🤛 You can find me on:
 <a href="https://www.linkedin.com/in/henrique-lopes-velozo-272206234/" rel="nolfollow">
