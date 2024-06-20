@@ -73,6 +73,6 @@
 <div class="">
 <a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hrqlv&theme=vue-dark"/>
- <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&theme=vue-dark"/>
+ <img height=270  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&theme=vue-dark"/>
 </a>
 </div>
