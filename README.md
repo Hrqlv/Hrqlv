@@ -47,7 +47,7 @@
 <img alt="playwright" height="45" width="40" src="https://playwright.dev/img/playwright-logo.svg"
 </a>
 <a href="https://www.cypress.io/" rel="nofollow">
-<img alt="cypress" height="45" width="40" src="https://yt3.googleusercontent.com/iD0oePTGV8tZwEEP_WEG2rvyNiQAVfmjhawFMCj17ARjjmw-J70k9NDjSE5QTzD9Vk3ayBU=s900-c-k-c0x00ffffff-no-rj"
+<img alt="cypress" height="45" width="40" src="https://static-00.iconduck.com/assets.00/cypress-icon-2048x2048-9zw9ho85.png"
 </a>
 <a href="https://allurereport.org/docs/gettingstarted-installation/" rel="nofollow">
 <img alt="allure-report" height="45" width="40" src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4">
