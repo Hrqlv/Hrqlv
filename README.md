@@ -35,6 +35,9 @@
 <a href="https://www.devmedia.com.br/guia/guia-completo-de-sql/38314"  rel="nofollow">
 <img alt="sql" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png">
 </a>
+ <a href="https://www.mongodb.com/try/download/community" rel="nofollow">
+<img alt="mongoDB" height="52" width="43" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
+</a>
  <a href="https://git-scm.com/" rel="nofollow">
 <img alt="git" height="40" width="40" src="https://bastter-storage.b-cdn.net/outros/b691b724-2a8e-4f45-b632-ffaa4439c404.png">
 </a>
@@ -66,9 +69,6 @@
 </a>
   <a href="https://www.browserstack.com/" rel="nofollow">
 <img alt="browserStack" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/browserstack.svg">
-</a>
- <a href="https://www.mongodb.com/try/download/community" rel="nofollow">
-<img alt="mongoDB" height="52" width="43" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
 </a>
 <br>
 <br>
