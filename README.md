@@ -5,7 +5,6 @@
 </h1>
 
 #  👨 Who am I ?:
-* Henrique, 19y
 * Software Quality - QA | Test Analyst Jr
 
 #  🚀 My Languages and Tools:
