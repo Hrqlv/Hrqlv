@@ -5,7 +5,7 @@
 </h1>
 
 #  👨 Who am I ?:
-* Software Quality - QA | Test Analyst Jr
+* Systems Development Technician and Software Test Analysis Technician. I am currently studying Systems Analysis and Development and have experience as a Test Analyst/QA. I have been studying and putting into practice more and more to improve my skills. I love technology, games, reading, movies, hanging out with friends and sports in my spare time. I am looking for new opportunities to apply my knowledge and continue growing professionally.
 
 #  🚀 My Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
