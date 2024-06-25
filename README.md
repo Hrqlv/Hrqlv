@@ -5,7 +5,7 @@
 </h1>
 
 #  👨 Who am I ?:
-* Systems Development Technician and Software Test Analysis Technician. I am currently studying Systems Analysis and Development and have experience as a Test Analyst/QA. I have been studying and putting into 
+* Systems Development Technician and Software Test Analysis Technician. I am currently studying Systems Analysis and Development and have experience as a Test Analyst/QA Jr. I have been studying and putting into 
   practice more and more to improve my skills. I love technology, games, reading, movies, hanging out with friends and sports in my spare time. I am looking for new opportunities to apply my knowledge and 
   continue growing professionally.
 
