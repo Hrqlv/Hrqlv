@@ -6,9 +6,7 @@
 </h1>
 
 #  👨 Who am I ?:
-* Systems Development Technician and Software Test Analysis Technician. I am currently studying Systems Analysis and Development and have experience as a Test Analyst/QA Jr. I have been studying and putting into 
-  practice more and more to improve my skills. I love technology, games, reading, movies, hanging out with friends and sports in my spare time. I am looking for new opportunities to apply my knowledge and 
-  continue growing professionally.
+* Técnico em Desenvolvimento de Sistemas e Técnico em Análise de Testes de Software. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e tenho experiência na area de Qualidade de Software. Venho estudando e colocando em prática cada vez mais para aprimorar minhas habilidades. Adoro tecnologia, jogos, leitura, filmes, sair com amigos e esportes nas horas vagas. Estou em busca de novas oportunidades para aplicar meus conhecimentos e continuar crescendo profissionalmente.
 
 #  🚀 My Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
