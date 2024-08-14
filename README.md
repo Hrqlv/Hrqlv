@@ -6,7 +6,7 @@
 </h1>
 
 #  👨 Who am I ?:
-* Técnico em Desenvolvimento de Sistemas e Técnico em Análise de Testes de Software. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e tenho experiência na area de Qualidade de Software. Venho estudando e colocando em prática cada vez mais para aprimorar minhas habilidades. Adoro tecnologia, jogos, leitura, filmes, sair com amigos e esportes nas horas vagas. Estou em busca de novas oportunidades para aplicar meus conhecimentos e continuar crescendo profissionalmente.
+* Técnico em Desenvolvimento de Sistemas e Técnico em Análise de Testes de Software. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e venho tendo experiência na area de Qualidade de Software. Venho estudando e colocando em prática cada vez mais para aprimorar minhas habilidades. Adoro tecnologia, jogos, leitura, filmes, sair com amigos e esportes nas horas vagas.
 
 #  🚀 My Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
