@@ -5,10 +5,10 @@
     Seja bem vindo(a) 
 </h1>
 
-#  👨 Quem sou eu ?:
+#  👨 Quem sou eu ? :
 * Técnico em Desenvolvimento de Sistemas e Técnico em Análise de Testes de Software. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e venho tendo experiência na area de Qualidade de Software. Venho estudando e colocando em prática cada vez mais para aprimorar minhas habilidades. Adoro tecnologia, jogos, leitura, filmes, sair com amigos e esportes nas horas vagas.
 
-#  🚀 Minhas linguagens e ferramentas:
+#  🚀 Minhas linguagens e ferramentas :
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
 <img alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </a>
@@ -40,7 +40,7 @@
 <img alt="git" height="40" width="40" src="https://bastter-storage.b-cdn.net/outros/b691b724-2a8e-4f45-b632-ffaa4439c404.png">
 </a>
 
-# 🛠️ Minhas ferramentas de testes:
+# 🛠️ Minhas ferramentas de testes :
 <a href="https://playwright.dev/" rel="nofollow">
 <img alt="playwright" height="45" width="40" src="https://playwright.dev/img/playwright-logo.svg"
 </a>
