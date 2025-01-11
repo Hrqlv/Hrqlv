@@ -63,7 +63,7 @@
 <img alt="appium" height="40" width="65" src="https://cdn.worldvectorlogo.com/logos/appium.svg">
 </a>
  <a href="https://cucumber.io/" rel="nofollow">
-<img alt="cucumber" height="40" width="40" src="https://banner2.cleanpng.com/20180806/xkl/9dc24abb7f0c0d0dfabfdfb681cfd7a6.webp">
+<img alt="cucumber" height="40" width="40" src="https://e7.pngegg.com/pngimages/733/718/png-clipart-cucumber-behavior-driven-development-software-testing-test-automation-selenium-cucumber-leaf-grass.png">
 </a>
  <a href="https://fakerjs.dev/guide/" rel="nofollow">
 <img alt="faker" height="40" width="40" src="https://fakerjs.dev/logo.svg">
