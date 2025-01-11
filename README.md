@@ -63,7 +63,7 @@
 <img alt="appium" height="40" width="65" src="https://cdn.worldvectorlogo.com/logos/appium.svg">
 </a>
  <a href="https://cucumber.io/" rel="nofollow">
-<img alt="cucumber" height="40" width="40" src="https://cucumber.io/docs/">
+<img alt="cucumber" height="40" width="40" src="https://banner2.cleanpng.com/20180806/xkl/9dc24abb7f0c0d0dfabfdfb681cfd7a6.webp">
 </a>
  <a href="https://fakerjs.dev/guide/" rel="nofollow">
 <img alt="faker" height="40" width="40" src="https://fakerjs.dev/logo.svg">
