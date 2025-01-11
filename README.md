@@ -1,9 +1,9 @@
 
 
-<h1 align="center">
+<h2 align="center">
 👋 Olá, tudo bem ? 
     Seja bem vindo(a) 
-</h1>
+</h2>
 
 ##  👨 Um pouco sobre mim:
 * Técnico em Desenvolvimento de Sistemas e Técnico em Análise de Testes de Software. Atualmente, graduando em Análise e Desenvolvimento de Sistemas e venho tendo experiência na area de Qualidade de Software. Venho estudando e colocando em prática cada vez mais, para aprimorar minhas habilidades. Adoro tecnologia, jogos, leitura, filmes, sair com amigos e esportes nas horas vagas.
