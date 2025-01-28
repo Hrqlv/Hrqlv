@@ -51,7 +51,7 @@
 <img alt="allure-report" height="45" width="40" src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4">
 </a>
 <a href="https://www.postman.com/" rel="nofollow">
-<img alt="postman" height="40" width="40" src="https://w7.pngwing.com/pngs/509/390/png-transparent-postman-macos-bigsur-icon-thumbnail.png">
+<img alt="postman" height="40" width="40" src="https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo-thumbnail.png">
 </a>
 <a href="https://swagger.io/" rel="nofollow">
 <img alt="swagger" height="40" width="40" src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png">
