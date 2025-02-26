@@ -6,7 +6,7 @@
 </h1>
 
 ##  👨 Um pouco sobre mim:
-* Técnico em Desenvolvimento de Sistemas e Técnico em Análise de Testes de Software. Atualmente, graduando em Análise e Desenvolvimento de Sistemas e venho tendo experiência na area de Qualidade de Software. Venho estudando e colocando em prática cada vez mais, para aprimorar minhas habilidades. Adoro tecnologia, jogos, leitura, filmes, sair com amigos e esportes nas horas vagas.
+* Técnico em Desenvolvimento de Sistemas e Técnico em Análise de Testes de Software e demais cursos por fora para aprimorar minhas habilidades. Atualmente, graduando em Análise e Desenvolvimento de Sistemas e venho tendo experiência na área de Qualidade de Software. Com foco em testes automatizados e testes manuais.
 
 ##  🚀 Algumas linguagens e ferramentas:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
