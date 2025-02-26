@@ -15,9 +15,6 @@
 <a href="https://www.typescriptlang.org" rel="nofollow">
 <img alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </a>
-<a href="https://www.w3.org/html/" rel="nofollow">
-<img alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-</a>
 <a href="https://www.figma.com/files/recent?fuid=1019770625343230844"  rel="nofollow">
 <img alt="figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
 </a>
