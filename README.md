@@ -7,10 +7,10 @@
 * Técnico em Desenvolvimento de Sistemas e Técnico em Análise de Testes de Software e demais cursos por fora para aprimorar minhas habilidades. Atualmente, graduando em Análise e Desenvolvimento de Sistemas e venho tendo experiência na área de Qualidade de Software. Com foco em testes automatizados e testes manuais.
 
 ##  🚀 Algumas linguagens e ferramentas:
-<a rel="nofollow">
+<a href="" rel="nofollow">
 <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </a>
-<a rel="nofollow">
+<a href="" rel="nofollow">
 <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </a>
 <a href="https://www.figma.com/files/recent?fuid=1019770625343230844"  rel="nofollow">
