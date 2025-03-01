@@ -13,8 +13,8 @@
 <a href="" rel="nofollow">
 <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </a>
-<a href="https://www.figma.com/files/recent?fuid=1019770625343230844"  rel="nofollow">
-<img alt="figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+<a href=""  rel="nofollow">
+<img alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </a>
  <a href="https://git-scm.com/" rel="nofollow">
 <img alt="git" height="40" width="40" src="https://bastter-storage.b-cdn.net/outros/b691b724-2a8e-4f45-b632-ffaa4439c404.png">
