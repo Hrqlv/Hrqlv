@@ -43,10 +43,10 @@ Técnico em Desenvolvimento de Sistemas e Técnico em Análise de Testes de Soft
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Hrqlv&show_icons=true&theme=tokyonight">
+      <img src="https://github-readme-stats.vercel.app/api?username=Hrqlv&show_icons=true&theme=merko">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&layout=compact&theme=tokyonight">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&layout=compact&theme=merko">
     </td>
   </tr>
 </table>
