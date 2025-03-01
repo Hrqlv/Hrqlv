@@ -22,8 +22,8 @@
 <a href="" rel="nofollow">
 <img alt="postman" src="https://img.shields.io/badge/Postman-E44C30?style=for-the-badge&logo=postman&logoColor=white">
 </a>
-<a href="https://swagger.io/" rel="nofollow">
-<img alt="swagger" height="40" width="40" src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png">
+<a href="" rel="nofollow">
+<img alt="swagger" src="https://img.shields.io/badge/Swagger-E44C30?style=for-the-badge&logo=swagger&logoColor=green">
 </a> 
 
 ## 🛠️ Algumas ferramentas de teste:
