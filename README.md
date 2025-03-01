@@ -27,8 +27,8 @@
 </a> 
 
 ## 🛠️ Algumas ferramentas de teste:
-<a href="https://playwright.dev/" rel="nofollow">
-<img alt="playwright" height="45" width="40" src="https://playwright.dev/img/playwright-logo.svg"
+<a href="" rel="nofollow">
+<img alt="playwright" src="https://img.shields.io/badge/Playwright-00FF00?style=for-the-badge&logo=swagger&logoColor=black"
 </a>
 <a href="https://allurereport.org/docs/gettingstarted-installation/" rel="nofollow">
 <img alt="allure-report" height="45" width="40" src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4">
