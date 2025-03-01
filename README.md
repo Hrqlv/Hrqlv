@@ -23,7 +23,7 @@
 <img alt="postman" src="https://img.shields.io/badge/Postman-E44C30?style=for-the-badge&logo=postman&logoColor=white">
 </a>
 <a href="" rel="nofollow">
-<img alt="swagger" src="https://img.shields.io/badge/Swagger-00FF00?style=for-the-badge&logo=swagger&logoColor=green">
+<img alt="swagger" src="https://img.shields.io/badge/Swagger-00FF00?style=for-the-badge&logo=swagger&logoColor=black">
 </a> 
 
 ## 🛠️ Algumas ferramentas de teste:
