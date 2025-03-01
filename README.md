@@ -33,7 +33,6 @@ Técnico em Desenvolvimento de Sistemas e Técnico em Análise de Testes de Soft
     <td><strong>📁 Repositórios & Controle de Versão</strong></td>
     <td>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
       <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
     </td>
   </tr>
@@ -54,10 +53,10 @@ Técnico em Desenvolvimento de Sistemas e Técnico em Análise de Testes de Soft
 
 ## 📫 Contato  
 
-<a href="https://www.linkedin.com/in/seu-perfil/" target="_blank">
+<a href="https://www.linkedin.com/in/henrique-lopes-velozo-272206234/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:seuemail@example.com">
+<a href="hlopesvelozo@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
