@@ -1,7 +1,7 @@
 # 👋 Olá! Bem-vindo ao meu perfil do GitHub  
 
 ## 🚀 Sobre mim  
-Sou um desenvolvedor apaixonado por tecnologia, qualidade de software e automação de testes. Sempre em busca de novos desafios e aprendizados!  
+Técnico em Desenvolvimento de Sistemas e Técnico em Análise de Testes de Software e demais cursos por fora para aprimorar minhas habilidades. Atualmente, graduando em Análise e Desenvolvimento de Sistemas e venho tendo experiência na área de Qualidade de Software. Com foco em testes automatizados e testes manuais.  
 
 ## 🛠️ Tecnologias & Ferramentas  
 
