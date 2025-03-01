@@ -10,8 +10,8 @@
 <a rel="nofollow">
 <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </a>
-<a href="https://www.typescriptlang.org" rel="nofollow">
-<img alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<a rel="nofollow">
+<img alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </a>
 <a href="https://www.figma.com/files/recent?fuid=1019770625343230844"  rel="nofollow">
 <img alt="figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
