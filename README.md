@@ -9,14 +9,7 @@
 * Técnico em Desenvolvimento de Sistemas e Técnico em Análise de Testes de Software e demais cursos por fora para aprimorar minhas habilidades. Atualmente, graduando em Análise e Desenvolvimento de Sistemas e venho tendo experiência na área de Qualidade de Software. Com foco em testes automatizados e testes manuais.
 
 ##  🚀 Algumas linguagens e ferramentas:
-
-         
- 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" />
-                 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
-<img alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</a>
+	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 <a href="https://www.typescriptlang.org" rel="nofollow">
 <img alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </a>
