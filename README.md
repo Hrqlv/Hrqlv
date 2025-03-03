@@ -1,7 +1,11 @@
 # 👋 Olá! Bem-vindo ao meu perfil do GitHub  
 
 ## 🚀 Sobre mim  
-Técnico em Desenvolvimento de Sistemas e Técnico em Análise de Testes de Software e demais cursos por fora para aprimorar minhas habilidades. Atualmente, graduando em Análise e Desenvolvimento de Sistemas e venho tendo experiência na área de Qualidade de Software. Com foco em testes automatizados e testes manuais.  
+Técnico em Desenvolvimento de Sistemas e Técnico em Análise de Testes de Software, com diversos outros cursos complementares para aprimorar minhas habilidades. Atualmente, estou graduando em Análise e Desenvolvimento de Sistemas e tenho experiência na área de Qualidade de Software, com foco em testes automatizados e testes manuais.
+
+Além da tecnologia, sou apaixonado por esportes, sempre acompanhando e praticando quando posso. Também gosto de leitura, especialmente livros de desenvolvimento pessoal. Música faz parte do meu dia a dia, variando entre diferentes estilos conforme o momento e filmes, principalmente de comédia e ação.
+
+Sempre buscando aprender e melhorar tanto no âmbito profissional, mas como pessoa!  
 
 ## 🛠️ Tecnologias & Ferramentas  
 
