@@ -41,7 +41,7 @@ Sempre buscando aprender e melhorar tanto no âmbito profissional, mas como pess
   </tr>
 </table>
 
-## 📊 GitHub Stats  
+## 📊 GitHub Status  
 
 <table>
   <tr>
