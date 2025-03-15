@@ -11,7 +11,7 @@ Sempre buscando aprender e melhorar tanto no âmbito profissional, mas como pess
 
 <table>
   <tr>
-    <td><strong>📜 Linguagens</strong></td>
+    <td><strong>📜 Algumas Linguagens</strong></td>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
