@@ -3,7 +3,7 @@
 ## 🚀 Sobre mim  
 Técnico em Desenvolvimento de Sistemas e Técnico em Análise de Testes de Software, com diversos outros cursos complementares para aprimorar minhas habilidades. Atualmente, estou graduando em Análise e Desenvolvimento de Sistemas e tenho experiência na área de Qualidade de Software, com foco em testes automatizados e testes manuais.
 
-Além da tecnologia, sou apaixonado por esportes, sempre acompanhando e praticando quando posso. Também gosto de leitura, especialmente livros de desenvolvimento pessoal. Música faz parte do meu dia a dia, variando entre diferentes estilos conforme o momento e filmes, principalmente de comédia e ação.
+Além da tecnologia, sou apaixonado por esportes, sempre acompanhando e praticando quando posso. Também gosto de leitura, especialmente livros de desenvolvimento pessoal. Música faz parte do meu dia a dia, variando entre diferentes estilos e filmes, principalmente de comédia e ação.
 
 Sempre buscando aprender e melhorar tanto no âmbito profissional, mas como pessoa!  
 
@@ -18,7 +18,7 @@ Sempre buscando aprender e melhorar tanto no âmbito profissional, mas como pess
     </td>
   </tr>
   <tr>
-    <td><strong>🖥️ Ferramentas & Frameworks</strong></td>
+    <td><strong>🖥️ Algumas Ferramentas & Frameworks</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -33,7 +33,7 @@ Sempre buscando aprender e melhorar tanto no âmbito profissional, mas como pess
     </td>
   </tr>
   <tr>
-    <td><strong>📁 Repositórios & Controle de Versão</strong></td>
+    <td><strong>📁 Repositórios</strong></td>
     <td>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
