@@ -33,7 +33,7 @@ Sempre buscando aprender e melhorar tanto no âmbito profissional, mas como pess
     </td>
   </tr>
   <tr>
-    <td><strong>📁 Repositórios</strong></td>
+    <td><strong>📁 Alguns Repositórios</strong></td>
     <td>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
