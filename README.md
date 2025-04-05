@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">👋 Olá, Bem-vindo (a)!</h2>
+# 👋 Olá, Bem-vindo (a)!
 
 ## 🚀 Um pouco sobre mim  
 Técnico em Desenvolvimento de Sistemas e Técnico em Análise de Testes de Software, com diversos outros cursos complementares para aprimorar minhas habilidades. Atualmente, estou graduando em Análise e Desenvolvimento de Sistemas e tenho experiência na área de Qualidade de Software, com foco em testes automatizados e testes manuais.
