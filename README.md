@@ -1,24 +1,24 @@
-# 👋 Olá, Bem-vindo (a)!
+# 👋 Hello, welcome!
 
-## 🚀 Um pouco sobre mim  
-Técnico em Desenvolvimento de Sistemas e Técnico em Análise de Testes de Software, com diversos outros cursos complementares para aprimorar minhas habilidades. Atualmente, estou graduando em Análise e Desenvolvimento de Sistemas e tenho experiência na área de Qualidade de Software, com foco em testes automatizados e testes manuais.
+## 🚀  A little about me  
+Technician in Systems Development and Technician in Software Test Analysis, with several other complementary courses to improve my skills. I am currently graduating in Systems Analysis and Development and have experience in the area of ​Software Quality, with a focus on automated testing and manual testing.
 
-Além da tecnologia, sou apaixonado por esportes, sempre acompanhando e praticando quando posso. Também gosto de leitura, variando entre diversos estilos. Música faz parte de mim, variando entre diferentes estilos e filmes, variando entre diversos estilos também. De maneira geral, sou uma pessoa eclética.
+In addition to technology, I am passionate about sports, always following and practicing them whenever I can. I also enjoy reading, varying between different styles. Music is a part of me, varying between different styles and films, varying between different styles as well. In general, I am an eclectic person.
 
-Sempre buscando aprender e melhorar tanto no âmbito profissional, mas como pessoa!  
+Always seeking to learn and improve both professionally and as a person!
 
-## 🛠️ Tecnologias & Ferramentas  
+## 🛠️ Technologies & Tools  
 
 <table>
   <tr>
-    <td><strong>📜 Algumas Linguagens</strong></td>
+    <td><strong>📜 Some languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     </td>
   </tr>
   <tr>
-    <td><strong>🖥️ Algumas Ferramentas & Frameworks</strong></td>
+    <td><strong>🖥️ Some Tools & Frameworks</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -33,7 +33,7 @@ Sempre buscando aprender e melhorar tanto no âmbito profissional, mas como pess
     </td>
   </tr>
   <tr>
-    <td><strong>📁 Alguns Repositórios</strong></td>
+    <td><strong>📁 Some Repositories</strong></td>
     <td>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
