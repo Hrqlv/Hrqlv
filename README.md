@@ -24,6 +24,7 @@ Always seeking to learn and improve both professionally and as a person!
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
       <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white">
+      <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
       <img src="https://img.shields.io/badge/Allure%20Report-E74426?style=for-the-badge">
       <img src="https://img.shields.io/badge/Webdriver.io-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white">
       <img src="https://img.shields.io/badge/Appium-9D38BD?style=for-the-badge&logo=appium&logoColor=white">
