@@ -1,4 +1,3 @@
-# 👋 Hello, welcome!
 
 ## 🛠️ Technologies & Tools  
 
