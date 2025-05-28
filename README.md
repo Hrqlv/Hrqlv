@@ -1,12 +1,5 @@
 # 👋 Hello, welcome!
 
-## 🚀  A little about me  
-Technician in Systems Development and Technician in Software Test Analysis, with several other complementary courses to improve my skills. I am currently graduating in Systems Analysis and Development and have experience in the area of ​Software Quality, with a focus on automated testing and manual testing.
-
-In addition to technology, I am passionate about sports, always following and practicing them whenever I can. I also enjoy reading, varying between different styles. Music is a part of me, varying between different styles and films, varying between different styles as well. In general, I am an eclectic person.
-
-Always seeking to learn and improve both professionally and as a person!
-
 ## 🛠️ Technologies & Tools  
 
 <table>
