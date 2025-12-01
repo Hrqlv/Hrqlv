@@ -39,10 +39,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Hrqlv&show_icons=true&theme=merko"/>
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hrqlv&show_icons=true&theme=merko" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&layout=compact&theme=merko"/>
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hrqlv&layout=compact&theme=merko" />
     </td>
   </tr>
 </table>
