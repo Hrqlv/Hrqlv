@@ -1,17 +1,3 @@
-
-## 📊 GitHub Status  
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Hrqlv&show_icons=true&theme=merko" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&layout=compact&theme=merko" />
-    </td>
-  </tr>
-</table>
-
 ## 📫 Contato  
 
 <a href="https://www.linkedin.com/in/henrique-lopes-velozo-272206234/" target="_blank">
