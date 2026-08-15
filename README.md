@@ -6,8 +6,8 @@ Sempre buscando aprender, evoluir e compartilhar conhecimento.
 
 ### Áreas de atuação:
 
-- 🧪 Testes Manuais
 - 🤖 Automação de Testes
+- 🧪 Testes Manuais
 - 🌐 Testes Web
 - 📱 Testes Mobile
 - 🔌 Testes de API
