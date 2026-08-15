@@ -11,9 +11,8 @@ Sempre buscando aprender, evoluir e compartilhar conhecimento.
 - 🌐 Testes Web
 - 📱 Testes Mobile
 - ⚙️ RPA
-- 🔄 Qualidade de Software
 - 🚀 CI/CD
 
----
+--
 
 💡 *"Qualidade não é apenas encontrar bugs, é ajudar a construir experiências melhores."*
