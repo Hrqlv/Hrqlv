@@ -10,6 +10,7 @@ Sempre buscando aprender, evoluir e compartilhar conhecimento.
 - 🤖 Automação de Testes
 - 🌐 Testes Web
 - 📱 Testes Mobile
+- 🔌 Testes de API
 - ⚙️ RPA
 - 🚀 CI/CD
 
