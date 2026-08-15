@@ -13,6 +13,6 @@ Sempre buscando aprender, evoluir e compartilhar conhecimento.
 - ⚙️ RPA
 - 🚀 CI/CD
 
---
+---
 
 💡 *"Qualidade não é apenas encontrar bugs, é ajudar a construir experiências melhores."*
