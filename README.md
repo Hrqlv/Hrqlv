@@ -18,5 +18,6 @@ Sempre buscando aprender, evoluir e compartilhar conhecimento.
 
 💡 *"Qualidade não é apenas encontrar bugs, é ajudar a construir experiências melhores."*
 
-##
+---
+
 [![Henrique GitHub stats](https://github-stats-extended.vercel.app/api?username=Hrqlv)](https://github.com/stats-organization/github-stats-extended)
