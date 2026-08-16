@@ -20,6 +20,4 @@ Sempre buscando aprender, evoluir e compartilhar conhecimento.
 
 ## 📊 GitHub Stats
 
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrqlv&show_icons=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrqlv&layout=compact)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Hrqlv)](https://github.com/stats-organization/github-stats-extended)
