@@ -20,4 +20,4 @@ Sempre buscando aprender, evoluir e compartilhar conhecimento.
 
 ---
 
-[![Henrique GitHub stats](https://github-stats-extended.vercel.app/api?username=Hrqlv)](https://github.com/stats-organization/github-stats-extended)
+[![Henrique GitHub stats](https://github-stats-extended.vercel.app/api?username=Hrqlv&theme=radical)
