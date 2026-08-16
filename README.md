@@ -18,7 +18,5 @@ Sempre buscando aprender, evoluir e compartilhar conhecimento.
 
 💡 *"Qualidade não é apenas encontrar bugs, é ajudar a construir experiências melhores."*
 
-## 📊 GitHub Stats
-
-https://github-readme-stats.vercel.app/api?username=Hrqlv&theme=radical
-https://github-stats-extended.vercel.app/api?username=Hrqlv&theme=radical
+##
++ https://github-stats-extended.vercel.app/api?username=Hrqlv&theme=radical
