@@ -20,4 +20,5 @@ Sempre buscando aprender, evoluir e compartilhar conhecimento.
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Hrqlv)](https://github.com/stats-organization/github-stats-extended)
+https://github-readme-stats.vercel.app/api?username=Hrqlv&theme=radical
+https://github-stats-extended.vercel.app/api?username=Hrqlv&theme=radical
