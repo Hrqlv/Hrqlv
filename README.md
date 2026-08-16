@@ -4,15 +4,15 @@ Profissional especializado em **testes manuais e automatizados** para aplicaçõ
 Apaixonado por tecnologia, qualidade de software e por transformar desafios em soluções mais confiáveis.
 Sempre buscando aprender, evoluir e compartilhar conhecimento.
 
-### Áreas de atuação:
+### 👨🏻‍💻 Áreas de atuação:
 
-- 🤖 Automação de Testes
-- 🧪 Testes Manuais
-- 🌐 Testes Web
-- 📱 Testes Mobile
-- 🔌 Testes de API
-- ⚙️ RPA
-- 🚀 CI/CD
+- Automação de Testes
+- Testes Manuais
+- Testes Web
+- Testes Mobile
+- Testes de API
+- RPA
+- CI/CD
 
 ---
 
