@@ -4,7 +4,7 @@ Profissional especializado em **testes manuais e automatizados** para aplicaçõ
 Apaixonado por tecnologia, qualidade de software e por transformar desafios em soluções mais confiáveis.
 Sempre buscando aprender, evoluir e compartilhar conhecimento.
 
-### 👨🏻‍💻 Áreas de atuação:
+### 👨🏻‍💻 Habilidades:
 
 - Automação de Testes
 - Testes Manuais
