@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou Henrique!
+## 👋 Olá!
 
 Profissional especializado em **testes manuais e automatizados** para aplicações **Web, Mobile e RPA**, atuando na garantia da qualidade e confiabilidade do software ao longo de todo o ciclo de desenvolvimento.
 Apaixonado por tecnologia, qualidade de software e por transformar desafios em soluções mais confiáveis.
